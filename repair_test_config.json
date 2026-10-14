@@ -1,0 +1,16 @@
+{
+  "reference_cases": 32,
+  "reference_workers": 4,
+  "reference_times": 161,
+  "surrogate_adam": 1200,
+  "surrogate_lbfgs": 40,
+  "coupling_rounds": 1,
+  "fluid_adam": 100,
+  "fluid_lbfgs": 10,
+  "carrier_polish_adam": 300,
+  "carrier_polish_lbfgs": 30,
+  "log_every": 100,
+  "validation_cases": 8,
+  "screening_points": 3072,
+  "screening_times": 7
+}

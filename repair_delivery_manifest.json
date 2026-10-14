@@ -1,0 +1,10 @@
+{
+  "script": "stenosis_parametric_repaired.py",
+  "script_sha256": "26081cec07006f597f8a152aedbb9b255a717868f290ef0862e0f2a6bd33e52e",
+  "review_archive": "repair_review_outputs.zip",
+  "review_archive_sha256": "ff7e83206774ec150e3f763b9b213f8af903a1c6365927cb8cf38b444368abd1",
+  "review_archive_excludes": [
+    "model.pt"
+  ],
+  "review_run_gifs": false
+}

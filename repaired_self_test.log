@@ -1,0 +1,13 @@
+PASS: fixed geometry, four-bead force/torque balance, equilibrium and Gaussian normalization
+PASS: analytic network derivatives vs autograd, NumPy/Torch mechanics, Poiseuille, exact IC and finite coupled gradients
+PASS: primitive NS is in the training loss and produces nonzero finite gradients
+PASS: primitive residual agrees with independent forward/autograd NS in steady and transient modes
+PASS: exact mixed/primitive discrepancy identity including continuity and stress-error gradients
+PASS: conditional ICs, admissible sampling, seven-input fluid derivatives, five-input time derivatives, conditional NS, quadrature consistency and gradients
+PASS: approaching/separating contact mechanics and independent Radau contact relaxation
+PASS: flat wall impact rebounds; maximum overlap=3.523% radius
+PASS: curved wall impact rebounds; maximum overlap=3.523% radius
+PASS: numerical-source Hermite state and derivatives, including t=0 and t=T
+PASS: exact NumPy carrier vs Torch, scalar/batched states and zero/nonzero feedback
+PASS: exact initial acceleration with equilibrium and prestressed bonds
+PASS: full vs physical Jacobians and lightweight validation retain all NS residual values
