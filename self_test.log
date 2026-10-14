@@ -1,0 +1,7 @@
+PASS: fixed geometry, four-bead force/torque balance, equilibrium and Gaussian normalization
+PASS: analytic network derivatives vs autograd, NumPy/Torch mechanics, Poiseuille, exact IC and finite coupled gradients
+PASS: primitive NS is in the training loss and produces nonzero finite gradients
+PASS: primitive residual agrees with independent forward/autograd NS in steady and transient modes
+PASS: exact mixed/primitive discrepancy identity including continuity and stress-error gradients
+PASS: conditional ICs, admissible sampling, seven-input fluid derivatives, five-input time derivatives, conditional NS, quadrature consistency and gradients
+PASS: approaching/separating contact mechanics and independent Radau contact relaxation

@@ -1,0 +1,7 @@
+{
+  "variable_beads": [0, 1],
+  "ic_bounds": [[0.10, 0.18], [0.09, 0.20], [0.15, 0.24], [0.09, 0.20]],
+  "initial_clearance": 0.002,
+  "rest_lengths": "case",
+  "validation_cases": 8
+}
